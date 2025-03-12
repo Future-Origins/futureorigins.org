@@ -21,7 +21,7 @@
 title: Adamin
 email: adam@futureorigins.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Dedicated to the future generations of humankind, and the technology born from a single directive that human life can only exist in harmony with the physical and natural laws of the universe. These deemed the Future Origins which allow for the sustainable stewardship, and long term success of this plant Earth.
+  Dedicated to the future generations of humankind, and the technology born from single directive to protect all human life. And with the premise that human prosperity is forever dependent on a harmony that must exist within the physical and natural limitations of the universe. May this be understood as the Future Origins of our species, providing for the sustainable stewardship, and long term success of this plant Earth.
 domain: futureorigins.org
 baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://futureorigins.org" # the base hostname & protocol for your site, e.g. http://example.com
@@ -29,9 +29,12 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: cayman
+#theme: cayman
+#plugins:
+#  - jekyll-feed
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
