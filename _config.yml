@@ -23,7 +23,7 @@ email: adam@futureorigins.org
 description: >- # this means to ignore newlines until "baseurl:"
   Dedicated to the future generations of humankind, and the technology born from single directive to protect all human life. And with the premise that human prosperity is forever dependent on a harmony that must exist within the physical and natural limitations of the universe. May this be understood as the Future Origins of our species, providing for the sustainable stewardship, and long term success of this plant Earth.
 domain: futureorigins.org
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+#baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://futureorigins.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
