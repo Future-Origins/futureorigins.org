@@ -89,7 +89,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Future Origins Prime Directive # blog_name will be displayed in your blog page
-blog_description: The goal of Future Origins is simply to adhere to a single prime directive, protect the wisdom and knowledge of humanity through the use of technology, so long as it doesn't harm any physical communities, personal interactions, or natural environments occupied by humans or any other living organism. The fundamental premise for this organization is to tell OUR story, and to give the next generation of stewards the opportunity to do the same. The aim of the organization is not attempt to create/recreate idea or technology, nor does it attempt to claim any recognition for novel ideas that came before it.
+blog_description: The goal of Future Origins is simply to adhere to a single prime directive, protect the wisdom and knowledge of humanity through the use of technology, so long as it doesn't harm any physical communities, personal interactions, or natural environments occupied by humans or any other living organism. The fundamental premise for this organization is to tell OUR story, and to give the next generation of stewards the opportunity to do the same. The aim of the organization is not to attempt the creation/recreation of any ideas or technologies, nor does it attempt to claim any recognition for novel ideas that came before it.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
