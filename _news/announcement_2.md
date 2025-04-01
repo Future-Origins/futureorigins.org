@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Future Origins YouTube Channel goes live!
-date: 2015-11-07 16:11:00-0400
+date: 2025-03-16 16:11:00-0400
 inline: false
 related_posts: false
 ---
@@ -11,7 +11,7 @@ After over a decade, new technologies have emerged, reinvigorating the idea of s
 
 ---
 
-Although YouTube is not a new platform, I still think it is an incredibly useful platform for sharing embeded video. Our YouTube channel is starting of a collection of drone footage from around my home in Northern California. I'm sure the extent of the footage over the next couple years will go far beyond that. My goal is to share the cinema of natural landscapes (and seascapes). Nature is violent and unforgiving. It is an incredibly important part of humananity's origins, and the driver in our ability to innovate and adapt. I'm regularly intrigued by the thought of archaic man struggling to survive in such inhospitable environments. Enjoy! :earth_americas: :evergreen_tree: :sun_with_face:
+Although YouTube is not a new platform, I still think it's an incredibly useful platform for sharing video. Our YouTube channel is starting off with a collection of drone footage from around my home in Northern California. I'm sure the extent of the footage over the next couple years will go far beyond that. My goal is to share the cinema of natural landscapes (and seascapes). Nature is violent and unforgiving. It is an incredibly important part of humananity's origins, and the driver in our ability to innovate and adapt. I'm regularly intrigued by the thought of archaic man struggling to survive in such inhospitable environments. I revere and respect the native people that understood what it took to servive here. I hope this helps others appreciate the beauty and danger all in the same moment. Enjoy! :earth_americas: :evergreen_tree: :sun_with_face:
 
 #### YouTube List
 
