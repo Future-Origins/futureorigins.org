@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: We are a nonprofit established with the mission of telling our story and the story of our ancestors, by conveying a multitude of lessons learned, through the use of our technology. In remembrance of those that came before us, and in dedication to those that will rebuild from the ashes of our once great civilizations. We believe that the <b>future origins</b> of intelligent life on Earth, must begin with the protection of humanity's collective memory and knowledge, and by resisting the forces that intend to distract and spread a pestilence of amnesia across the globe.
+subtitle: We are a nonprofit established with the mission of telling our story and the story of our ancestors, by conveying a multitude of lessons learned, through the use of our technology. In remembrance of those that came before us, and in dedication to those that will rebuild from the ashes of our once great civilizations. We believe that the <b>future origins</b> of intelligent life on Earth, must begin with the protection of humanity's collective memory and knowledge, and by building an immunity to the forces that intend to distract and spread a pestilence of amnesia across the globe.
 
 profile:
   align: right
