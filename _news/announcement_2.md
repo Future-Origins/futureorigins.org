@@ -20,4 +20,3 @@ Although YouTube is not a new platform, I still think it's an incredibly useful 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/SBzX6ij-Nuo?si=dYZKmXLHu1kQazNL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Gs96pTVSsp0?si=rXj0B2RXe5XB64IO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </ul>
-
