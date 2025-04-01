@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<b>Future Origins</b> becomes incorporated as a public charity! :sparkles: :smile:
+<b>Future Origins</b> becomes incorporated as a public charity! :rocket: :smile:
