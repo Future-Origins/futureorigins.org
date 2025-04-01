@@ -448,8 +448,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-future-origins-becomes-incorporated-as-a-public-charity-sparkles-smile",
-          title: 'Future Origins becomes incorporated as a public charity! :sparkles: :smile:',
+            },},{id: "news-future-origins-becomes-incorporated-as-a-public-charity-rocket-smile",
+          title: 'Future Origins becomes incorporated as a public charity! :rocket: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
