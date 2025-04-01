@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-laid-off-and-way-too-much-time-on-my-hands-sparkles-sweat-smile",
+          title: 'Laid off and way too much time on my hands! :sparkles: :sweat_smile:',
           description: "",
           section: "News",},{id: "news-future-origins-youtube-channel-goes-live",
           title: 'Future Origins YouTube Channel goes live!',
