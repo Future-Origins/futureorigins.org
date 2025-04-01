@@ -11,14 +11,14 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: adam_pic.jpg
-    content: about_einstein.md
+    content: about_adam.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Northern California</p>
-  - align: left
-    image: adam_pic.jpg
-    content: about_einstein.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>Northern California</p>
+      <p>Adam Acevedo</p>
+#  - align: left
+#    image: adam_pic.jpg
+#    content: about_einstein.md
+#    image_circular: true # crops the image to make it circular
+#    more_info: >
+#      <p>Northern California</p>
 ---
