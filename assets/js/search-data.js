@@ -440,15 +440,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-future-origins-youtube-channel-goes-live",
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-future-origins-youtube-channel-goes-live",
           title: 'Future Origins YouTube Channel goes live!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-future-origins-becomes-incorporated-as-a-public-charity-sparkles-smile",
+            },},{id: "news-future-origins-becomes-incorporated-as-a-public-charity-sparkles-smile",
           title: 'Future Origins becomes incorporated as a public charity! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
