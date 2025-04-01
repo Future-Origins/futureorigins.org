@@ -14,7 +14,7 @@ profiles:
     content: about_adam.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>    Adam Acevedo</p>
+      <p>Adam Acevedo</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
