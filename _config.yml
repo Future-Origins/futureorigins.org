@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Future Origins # the website title (if blank, full name will be used instead)
-first_name: Adam
-middle_name: A.
-last_name: Acevedo
+title: # the website title (if blank, full name will be used instead)
+first_name: Future
+middle_name:
+last_name: Origins
 contact_note: >
   Preferred method of direction communication is email
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
