@@ -6,7 +6,7 @@ subtitle: We are a nonprofit established with the mission of telling our story a
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: garden_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Northern California</p>
