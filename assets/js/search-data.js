@@ -508,14 +508,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/adam-acevedo", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/adam-acevedo", "_blank");
+          window.open("https://github.com/future-origins", "_blank");
         },
       },{
         id: 'social-rss',
@@ -525,11 +518,11 @@ ninja.data = [{
           window.open("/feed.xml", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-youtube',
+        title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://youtube.com/@futureorigins", "_blank");
         },
       },{
       id: 'light-theme',
